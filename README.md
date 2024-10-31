@@ -1,0 +1,1 @@
+This is my first github upload, so i may not have uploaded things correctly. Program should be run from main.py and pygame & python must be installed. Compiled program is above github allowed file size so i cant upload it here
